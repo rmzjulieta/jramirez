@@ -1,0 +1,44 @@
+---
+title: "Julieta Ramírez Villazana"
+---
+
+![](images/headshot.jpg){width=200px}
+
+I am a graduate student in Economics at UTEP, studying econometrics, time series analysis, and quantitative methods.
+
+## CV
+
+[**Download full CV (PDF)**](files/cv.pdf)
+
+**Education**
+
+- M.S. Economics, The University of Texas at El Paso (expected 2026)
+- B.A. Accounting, Instituto Tecnológico de Ciudad Juárez, 2003
+
+**Experience**
+
+- Head of Audit Department, Garza y Asociados, 2001–2004
+
+## Research interests
+
+My research interests lie at the intersection of economic history and labor economics, particularly the economics of women's work — both recognized professional labor and unpaid or unrecognized work.
+
+## Skills
+
+- Python (pandas, statsmodels)
+- R / Stata
+- Time series forecasting
+
+## Contact
+
+**Email:** jramirez169@miners.utep.edu
+
+**LinkedIn:** próximamente
+
+**GitHub:** próximamente
+
+## Research Project
+
+I am developing a time series forecasting project as part of ECON-5371. A full description, methodology, and results will be posted here as the project develops.
+
+**Status:** *Proposal stage — details forthcoming.*

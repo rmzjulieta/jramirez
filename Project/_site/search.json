@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Julieta Ramírez Villazana",
+    "section": "",
+    "text": "I am a graduate student in Economics at UTEP, studying econometrics, time series analysis, and quantitative methods."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Project",
+    "section": "",
+    "text": "project description"
+  },
+  {
+    "objectID": "index.html#cv",
+    "href": "index.html#cv",
+    "title": "Julieta Ramírez Villazana",
+    "section": "CV",
+    "text": "CV\nDownload full CV (PDF)\nEducation\n\nM.S. Economics, The University of Texas at El Paso (expected 2026)\nB.A. Accounting, Instituto Tecnológico de Ciudad Juárez, 2003\n\nExperience\n\nHead of Audit Department, Garza y Asociados, 2001–2004"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Julieta Ramírez Villazana",
+    "section": "Research interests",
+    "text": "Research interests\nMy research interests lie at the intersection of economic history and labor economics, particularly the economics of women’s work — both recognized professional labor and unpaid or unrecognized work."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Julieta Ramírez Villazana",
+    "section": "Skills",
+    "text": "Skills\n\nPython (pandas, statsmodels)\nR / Stata\nTime series forecasting"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Julieta Ramírez Villazana",
+    "section": "Contact",
+    "text": "Contact\nEmail: jramirez169@miners.utep.edu\nLinkedIn: próximamente\nGitHub: próximamente"
+  },
+  {
+    "objectID": "index.html#research-project",
+    "href": "index.html#research-project",
+    "title": "Julieta Ramírez Villazana",
+    "section": "Research Project",
+    "text": "Research Project\nI am developing a time series forecasting project as part of ECON-5371. A full description, methodology, and results will be posted here as the project develops.\nStatus: Proposal stage — details forthcoming."
+  }
+]
