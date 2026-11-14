@@ -7,7 +7,7 @@ about:
   links:
     - icon: file-earmark-pdf
       text: CV
-      href: files/cv.pdf
+      href: https://rmzjulieta.github.io/jramirez/files/cv.pdf
     - icon: github
       text: GitHub
       href: https://github.com/rmzjulieta
