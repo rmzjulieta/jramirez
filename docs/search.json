@@ -18,41 +18,34 @@
     "href": "index.html",
     "title": "Julieta Ramírez Villazana",
     "section": "",
-    "text": "I am a graduate student in Economics at UTEP, studying econometrics, time series analysis, and quantitative methods."
-  },
-  {
-    "objectID": "index.html#cv",
-    "href": "index.html#cv",
-    "title": "Julieta Ramírez Villazana",
-    "section": "CV",
-    "text": "CV\nDownload full CV (PDF)\nEducation\n\nM.S. Economics, The University of Texas at El Paso (expected 2026)\nB.A. Accounting, Instituto Tecnológico de Ciudad Juárez, 2003\n\nExperience\n\nHead of Audit Department, Garza y Asociados, 2001–2004"
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Julieta Ramírez Villazana",
-    "section": "Research interests",
-    "text": "Research interests\nMy research interests lie at the intersection of economic history and labor economics, particularly the economics of women’s work — both recognized professional labor and unpaid or unrecognized work."
-  },
-  {
-    "objectID": "index.html#skills",
-    "href": "index.html#skills",
-    "title": "Julieta Ramírez Villazana",
-    "section": "Skills",
-    "text": "Skills\n\nPython (pandas, statsmodels)\nR / Stata\nTime series forecasting"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Julieta Ramírez Villazana",
-    "section": "Contact",
-    "text": "Contact\nEmail: jramirez169@miners.utep.edu\nLinkedIn: próximamente\nGitHub: próximamente"
+    "text": "I am a graduate student in Economics at The University of Texas at El Paso, specializing in econometrics and time series analysis. My research interests lie at the intersection of economic history and labor economics, particularly the economics of women’s work, both paid professional labor and unpaid or unrecognized work."
   },
   {
     "objectID": "index.html#research-project",
     "href": "index.html#research-project",
     "title": "Julieta Ramírez Villazana",
     "section": "Research Project",
-    "text": "Research Project\nI am developing a time series forecasting project as part of ECON-5371. A full description, methodology, and results will be posted here as the project develops.\nStatus: Proposal stage — details forthcoming."
+    "text": "Research Project\nStructural Breaks in U.S. Women’s Labor Force Participation by Age Group ECON 5371, Time Series Analysis and Forecasting (Fall 2026)\nWhen did women’s labor force participation change course, and did it happen at the same time for every generation? This project tests for structural breaks in the participation rates of seven age groups, using annual Current Population Survey data from 1948 to 2025, and links each break to its historical and policy context.\n\nData: U.S. Department of Labor, Women’s Bureau (BLS Current Population Survey)\nMethods: structural break tests with known and unknown break dates\nTools: Python (pandas, statsmodels)\nStatus: paper in progress; results and dashboard coming December 2026\n\nhttps://rmzjulieta.github.io/econ5371/ · Paper (coming soon) · Dashboard (coming soon)"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Julieta Ramírez Villazana",
+    "section": "Education",
+    "text": "Education\n\nM.S. Economics, The University of Texas at El Paso, expected December 2026\nB.A. Accounting, Instituto Tecnológico de Ciudad Juárez, 2003"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Julieta Ramírez Villazana",
+    "section": "Experience",
+    "text": "Experience\n\nHome Investment Coordinator, Indigo Group Construction, El Paso, TX, 2022–2024\nHead of Audit Department, Garza y Asociados, Ciudad Juárez, 2001–2004"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Julieta Ramírez Villazana",
+    "section": "Skills",
+    "text": "Skills\n\nPython (pandas, statsmodels)\nR / Stata\nTime series analysis and forecasting"
   }
 ]
